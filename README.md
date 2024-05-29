@@ -1,8 +1,5 @@
 # Motivation
-
-At [Zalando](http://zalando.de), we maintain a [public Tech
-Radar](http://zalando.github.io/tech-radar/) to help our engineering teams
-align on technology choices. It is based on the [pioneering work
+Navigating the ever-evolving technology landscape demands a strategic balance between embracing emerging technologies and leveraging stable, production-ready ones. A personal technology radar, embodying both hands-on experience and forward-thinking insights, serves as a strategic tool for assessing risks and rewards inherent in the adoption of various technologies. This disciplined approach not only ensures a productive balance for achieving business objectives, but also commands respect from the development team. It communicates a deep understanding of their work and challenges, fostering an environment of mutual respect and collaborative problem-solving. It is based on the [pioneering work
 by ThoughtWorks](https://www.thoughtworks.com/radar).
 
 This repository contains the code to generate the visualization:
@@ -15,7 +12,6 @@ Feel free to use and adapt it for your own purposes.
 
 ```html
 <script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="http://zalando.github.io/tech-radar/release/radar-0.8.js"></script>
 ```
 
 2. insert an empty `svg` tag:
